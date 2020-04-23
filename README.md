@@ -1,7 +1,7 @@
 # soq61394451
 Answer code for https://stackoverflow.com/q/61393769/592355.
 
-Demonstrates (default) static file locations and handling.
+Demonstrates (default) static file locations and handling in spring-boot.
 
 ```mvn clean spring-boot:run```
 
