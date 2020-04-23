@@ -11,3 +11,9 @@ Demonstrates (default) static file locations and handling.
 - http://localhost:8080/test.html
 - http://localhost:8080/index2.html
 - http://localhost:8080/test2.html
+
+# See Also
+
+- https://docs.spring.io/spring-boot/docs/current/reference/html/appendix-application-properties.html :
+  -  `spring.resources.static-locations`
+  -  `spring.mvc.static-path-pattern`
